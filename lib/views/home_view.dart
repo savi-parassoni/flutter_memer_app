@@ -1,6 +1,5 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_memer/model/memes_response.dart';
 import 'package:flutter_memer/services/api.dart';
 
 class HomeView extends StatelessWidget {
